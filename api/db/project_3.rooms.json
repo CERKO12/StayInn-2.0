@@ -1,0 +1,1067 @@
+[{
+  "_id": {
+    "$oid": "654989d7ec5ec33b30e5c9df"
+  },
+  "title": "Queen Room",
+  "desc": "King size bed, 1 bathroom, balcony",
+  "price": 100,
+  "maxPeople": 2,
+  "roomNumbers": [
+    {
+      "number": "101",
+      "unavailableDates": [
+        {
+          "$numberLong": "1699344000000"
+        },
+        {
+          "$numberLong": "1699516800000"
+        },
+        {
+          "$numberLong": "1699430400000"
+        }
+      ]
+    },
+    {
+      "number": "102",
+      "unavailableDates": [
+        {
+          "$numberLong": "1699257600000"
+        },
+        {
+          "$numberLong": "1699430400000"
+        },
+        {
+          "$numberLong": "1699344000000"
+        },
+        {
+          "$numberLong": "1699603200000"
+        },
+        {
+          "$numberLong": "1699516800000"
+        },
+        {
+          "$numberLong": "1699689600000"
+        }
+      ]
+    }
+  ],
+  "hotelId": "6548a08ec616c892c8ea6828"
+},
+{
+  "_id": {
+    "$oid": "654d4d40a3873c81ca9dbcc1"
+  },
+  "title": "room update",
+  "desc": "King size bed, 1 bathroom, balcony",
+  "price": 400,
+  "maxPeople": 2,
+  "roomNumbers": [
+    {
+      "number": "201",
+      "unavailableDates": []
+    }
+  ],
+  "hotelId": "6548a08ec616c892c8ea6828"
+},
+{
+  "_id": {
+    "$oid": "654db81d5b674da07de78775"
+  },
+  "title": "RoomA",
+  "desc": "desc",
+  "price": 100,
+  "maxPeople": 2,
+  "roomNumbers": [
+    {
+      "number": "101",
+      "unavailableDates": [
+        {
+          "$numberLong": "1699689600000"
+        },
+        {
+          "$numberLong": "1699603200000"
+        },
+        {
+          "$numberLong": "1699516800000"
+        }
+      ]
+    }
+  ],
+  "hotelId": "6548a0e2c616c892c8ea682b"
+},
+{
+  "_id": {
+    "$oid": "654dc147abb00c0432772c7b"
+  },
+  "title": "Room",
+  "desc": "King size bed",
+  "price": 200,
+  "maxPeople": 2,
+  "roomNumbers": [
+    {
+      "number": "101",
+      "unavailableDates": []
+    }
+  ],
+  "hotelId": "6548a0f5c616c892c8ea682c"
+},
+{
+  "_id": {
+    "$oid": "654dc18babb00c0432772c7c"
+  },
+  "title": "Room",
+  "desc": "King size bed",
+  "price": 200,
+  "maxPeople": 2,
+  "roomNumbers": [
+    {
+      "number": 102,
+      "unavailableDates": []
+    }
+  ],
+  "hotelId": "6548a0a8c616c892c8ea6829"
+},
+{
+  "_id": {
+    "$oid": "654dc196abb00c0432772c7d"
+  },
+  "title": "Room",
+  "desc": "King size bed",
+  "price": 200,
+  "maxPeople": 2,
+  "roomNumbers": [
+    {
+      "number": 102,
+      "unavailableDates": []
+    }
+  ],
+  "hotelId": "6548a0c2c616c892c8ea682a"
+},
+{
+  "_id": {
+    "$oid": "654dc1acabb00c0432772c7e"
+  },
+  "title": "Room",
+  "desc": "King size bed",
+  "price": 200,
+  "maxPeople": 2,
+  "roomNumbers": [
+    {
+      "number": 201,
+      "unavailableDates": []
+    }
+  ],
+  "hotelId": "6548a105c616c892c8ea682d"
+},
+{
+  "_id": {
+    "$oid": "654dc1b3abb00c0432772c7f"
+  },
+  "title": "Room",
+  "desc": "King size bed",
+  "price": 200,
+  "maxPeople": 2,
+  "roomNumbers": [
+    {
+      "number": 201,
+      "unavailableDates": []
+    }
+  ],
+  "hotelId": "6548a12ec616c892c8ea682e"
+},
+{
+  "_id": {
+    "$oid": "654dc1c0abb00c0432772c80"
+  },
+  "title": "Room",
+  "desc": "King size bed",
+  "price": 200,
+  "maxPeople": 2,
+  "roomNumbers": [
+    {
+      "number": "2020",
+      "unavailableDates": []
+    }
+  ],
+  "hotelId": "6548a144c616c892c8ea682f"
+},
+{
+  "_id": {
+    "$oid": "654dc1ccabb00c0432772c81"
+  },
+  "title": "Room",
+  "desc": "King size bed",
+  "price": 200,
+  "maxPeople": 2,
+  "roomNumbers": [
+    {
+      "number": "2010",
+      "unavailableDates": []
+    }
+  ],
+  "hotelId": "6548a154c616c892c8ea6830"
+},
+{
+  "_id": {
+    "$oid": "654dc1d8abb00c0432772c82"
+  },
+  "title": "Room",
+  "desc": "King size bed",
+  "price": 200,
+  "maxPeople": 2,
+  "roomNumbers": [
+    {
+      "number": "1010",
+      "unavailableDates": []
+    }
+  ],
+  "hotelId": "6548a16ac616c892c8ea6831"
+},
+{
+  "_id": {
+    "$oid": "654dc1e1abb00c0432772c83"
+  },
+  "title": "Room",
+  "desc": "King size bed",
+  "price": 200,
+  "maxPeople": 2,
+  "roomNumbers": [
+    {
+      "number": "1011",
+      "unavailableDates": []
+    }
+  ],
+  "hotelId": "6548a178c616c892c8ea6832"
+},
+{
+  "_id": {
+    "$oid": "654dc1f4abb00c0432772c84"
+  },
+  "title": "Room",
+  "desc": "King size bed",
+  "price": 200,
+  "maxPeople": 2,
+  "roomNumbers": [
+    {
+      "number": "0901",
+      "unavailableDates": []
+    }
+  ],
+  "hotelId": "6548a184c616c892c8ea6833"
+},
+{
+  "_id": {
+    "$oid": "654dc201abb00c0432772c85"
+  },
+  "title": "Room",
+  "desc": "King size bed",
+  "price": 200,
+  "maxPeople": 2,
+  "roomNumbers": [
+    {
+      "number": "0801",
+      "unavailableDates": []
+    }
+  ],
+  "hotelId": "6548a191c616c892c8ea6834"
+},
+{
+  "_id": {
+    "$oid": "654dc20aabb00c0432772c86"
+  },
+  "title": "Room",
+  "desc": "King size bed",
+  "price": 200,
+  "maxPeople": 2,
+  "roomNumbers": [
+    {
+      "number": "0901",
+      "unavailableDates": []
+    }
+  ],
+  "hotelId": "6548a191c616c892c8ea6835"
+},
+{
+  "_id": {
+    "$oid": "654dc236abb00c0432772c89"
+  },
+  "title": "Room",
+  "desc": "King size bed",
+  "price": 200,
+  "maxPeople": 2,
+  "roomNumbers": [
+    {
+      "number": "303",
+      "unavailableDates": []
+    }
+  ],
+  "hotelId": "6548a1acc616c892c8ea6836"
+},
+{
+  "_id": {
+    "$oid": "654dc242abb00c0432772c8a"
+  },
+  "title": "Room",
+  "desc": "King size bed",
+  "price": 200,
+  "maxPeople": 2,
+  "roomNumbers": [
+    {
+      "number": "304",
+      "unavailableDates": []
+    }
+  ],
+  "hotelId": "6548a19dc616c892c8ea6835"
+},
+{
+  "_id": {
+    "$oid": "654ddab3d07891fd526c7f16"
+  },
+  "title": "Junior Suite",
+  "desc": "Modern suite with queen size bed, 1 bathroom, and private terrace",
+  "price": 130,
+  "maxPeople": 2,
+  "roomNumbers": [
+    {
+      "number": "104",
+      "unavailableDates": []
+    }
+  ],
+  "hotelId": "654dd7a76b85a0471a20dbb2"
+},
+{
+  "_id": {
+    "$oid": "654ddac2d07891fd526c7f17"
+  },
+  "title": "Junior Suite",
+  "desc": "Modern suite with queen size bed, 1 bathroom, and private terrace",
+  "price": 130,
+  "maxPeople": 2,
+  "roomNumbers": [
+    {
+      "number": "104",
+      "unavailableDates": []
+    }
+  ],
+  "hotelId": "654dd7a76b85a0471a20dbb3"
+},
+{
+  "_id": {
+    "$oid": "654ddac8d07891fd526c7f18"
+  },
+  "title": "Junior Suite",
+  "desc": "Modern suite with queen size bed, 1 bathroom, and private terrace",
+  "price": 130,
+  "maxPeople": 2,
+  "roomNumbers": [
+    {
+      "number": "104",
+      "unavailableDates": []
+    }
+  ],
+  "hotelId": "654dd7a76b85a0471a20dbb4"
+},
+{
+  "_id": {
+    "$oid": "654ddacbd07891fd526c7f19"
+  },
+  "title": "Junior Suite",
+  "desc": "Modern suite with queen size bed, 1 bathroom, and private terrace",
+  "price": 130,
+  "maxPeople": 2,
+  "roomNumbers": [
+    {
+      "number": "104",
+      "unavailableDates": []
+    }
+  ],
+  "hotelId": "654dd7a76b85a0471a20dbb5"
+},
+{
+  "_id": {
+    "$oid": "654ddacfd07891fd526c7f1a"
+  },
+  "title": "Junior Suite",
+  "desc": "Modern suite with queen size bed, 1 bathroom, and private terrace",
+  "price": 130,
+  "maxPeople": 2,
+  "roomNumbers": [
+    {
+      "number": "104",
+      "unavailableDates": []
+    }
+  ],
+  "hotelId": "654dd7a76b85a0471a20dbb6"
+},
+{
+  "_id": {
+    "$oid": "654ddad7d07891fd526c7f1b"
+  },
+  "title": "Junior Suite",
+  "desc": "Modern suite with queen size bed, 1 bathroom, and private terrace",
+  "price": 130,
+  "maxPeople": 2,
+  "roomNumbers": [
+    {
+      "number": "104",
+      "unavailableDates": []
+    }
+  ],
+  "hotelId": "654dd7a76b85a0471a20dbb7"
+},
+{
+  "_id": {
+    "$oid": "654ddadbd07891fd526c7f1c"
+  },
+  "title": "Junior Suite",
+  "desc": "Modern suite with queen size bed, 1 bathroom, and private terrace",
+  "price": 130,
+  "maxPeople": 2,
+  "roomNumbers": [
+    {
+      "number": "104",
+      "unavailableDates": []
+    }
+  ],
+  "hotelId": "654dd7a76b85a0471a20dbb8"
+},
+{
+  "_id": {
+    "$oid": "654ddaded07891fd526c7f1d"
+  },
+  "title": "Junior Suite",
+  "desc": "Modern suite with queen size bed, 1 bathroom, and private terrace",
+  "price": 130,
+  "maxPeople": 2,
+  "roomNumbers": [
+    {
+      "number": "104",
+      "unavailableDates": []
+    }
+  ],
+  "hotelId": "654dd7a76b85a0471a20dbb9"
+},
+{
+  "_id": {
+    "$oid": "654ddae1d07891fd526c7f1e"
+  },
+  "title": "Junior Suite",
+  "desc": "Modern suite with queen size bed, 1 bathroom, and private terrace",
+  "price": 130,
+  "maxPeople": 2,
+  "roomNumbers": [
+    {
+      "number": "104",
+      "unavailableDates": []
+    }
+  ],
+  "hotelId": "654dd7a76b85a0471a20dbb10"
+},
+{
+  "_id": {
+    "$oid": "654ddb0635520ba8c8fd133e"
+  },
+  "title": "Executive Room",
+  "desc": "Comfortable room with queen size bed, 1 bathroom, and city view",
+  "price": 120,
+  "maxPeople": 2,
+  "roomNumbers": [
+    {
+      "number": "104",
+      "unavailableDates": []
+    }
+  ],
+  "hotelId": "654dd7a76b85a0471a20dbba"
+},
+{
+  "_id": {
+    "$oid": "654ddb1035520ba8c8fd133f"
+  },
+  "title": "Executive Room",
+  "desc": "Comfortable room with queen size bed, 1 bathroom, and city view",
+  "price": 120,
+  "maxPeople": 2,
+  "roomNumbers": [
+    {
+      "number": "104",
+      "unavailableDates": []
+    }
+  ],
+  "hotelId": "654dd7a76b85a0471a20dbbb"
+},
+{
+  "_id": {
+    "$oid": "654ddb1335520ba8c8fd1340"
+  },
+  "title": "Executive Room",
+  "desc": "Comfortable room with queen size bed, 1 bathroom, and city view",
+  "price": 120,
+  "maxPeople": 2,
+  "roomNumbers": [
+    {
+      "number": "104",
+      "unavailableDates": []
+    }
+  ],
+  "hotelId": "654dd7a76b85a0471a20dbbc"
+},
+{
+  "_id": {
+    "$oid": "654ddb1835520ba8c8fd1341"
+  },
+  "title": "Executive Room",
+  "desc": "Comfortable room with queen size bed, 1 bathroom, and city view",
+  "price": 120,
+  "maxPeople": 2,
+  "roomNumbers": [
+    {
+      "number": "104",
+      "unavailableDates": []
+    }
+  ],
+  "hotelId": "654dd7a76b85a0471a20dbbd"
+},
+{
+  "_id": {
+    "$oid": "654ddb1c35520ba8c8fd1342"
+  },
+  "title": "Executive Room",
+  "desc": "Comfortable room with queen size bed, 1 bathroom, and city view",
+  "price": 120,
+  "maxPeople": 2,
+  "roomNumbers": [
+    {
+      "number": "104",
+      "unavailableDates": []
+    }
+  ],
+  "hotelId": "654dd7a76b85a0471a20dbbe"
+},
+{
+  "_id": {
+    "$oid": "654ddb2035520ba8c8fd1343"
+  },
+  "title": "Executive Room",
+  "desc": "Comfortable room with queen size bed, 1 bathroom, and city view",
+  "price": 120,
+  "maxPeople": 2,
+  "roomNumbers": [
+    {
+      "number": "104",
+      "unavailableDates": []
+    }
+  ],
+  "hotelId": "654dd7a76b85a0471a20dbbf"
+},
+{
+  "_id": {
+    "$oid": "654ddb2a35520ba8c8fd1344"
+  },
+  "title": "Executive Room",
+  "desc": "Comfortable room with queen size bed, 1 bathroom, and city view",
+  "price": 120,
+  "maxPeople": 2,
+  "roomNumbers": [
+    {
+      "number": "104",
+      "unavailableDates": []
+    }
+  ],
+  "hotelId": "654dd7a76b85a0471a20dbc0"
+},
+{
+  "_id": {
+    "$oid": "654ddb3035520ba8c8fd1345"
+  },
+  "title": "Executive Room",
+  "desc": "Comfortable room with queen size bed, 1 bathroom, and city view",
+  "price": 120,
+  "maxPeople": 2,
+  "roomNumbers": [
+    {
+      "number": "104",
+      "unavailableDates": []
+    }
+  ],
+  "hotelId": "654dd7a76b85a0471a20dbc1"
+},
+{
+  "_id": {
+    "$oid": "654ddb3635520ba8c8fd1346"
+  },
+  "title": "Executive Room",
+  "desc": "Comfortable room with queen size bed, 1 bathroom, and city view",
+  "price": 120,
+  "maxPeople": 2,
+  "roomNumbers": [
+    {
+      "number": "104",
+      "unavailableDates": []
+    }
+  ],
+  "hotelId": "654dd7a76b85a0471a20dbc2"
+},
+{
+  "_id": {
+    "$oid": "654ddb3a35520ba8c8fd1347"
+  },
+  "title": "Executive Room",
+  "desc": "Comfortable room with queen size bed, 1 bathroom, and city view",
+  "price": 120,
+  "maxPeople": 2,
+  "roomNumbers": [
+    {
+      "number": "104",
+      "unavailableDates": []
+    }
+  ],
+  "hotelId": "654dd7a76b85a0471a20dbc3"
+},
+{
+  "_id": {
+    "$oid": "654ddb3d35520ba8c8fd1348"
+  },
+  "title": "Executive Room",
+  "desc": "Comfortable room with queen size bed, 1 bathroom, and city view",
+  "price": 120,
+  "maxPeople": 2,
+  "roomNumbers": [
+    {
+      "number": "104",
+      "unavailableDates": []
+    }
+  ],
+  "hotelId": "654dd7a76b85a0471a20dbc4"
+},
+{
+  "_id": {
+    "$oid": "654ddb4135520ba8c8fd1349"
+  },
+  "title": "Executive Room",
+  "desc": "Comfortable room with queen size bed, 1 bathroom, and city view",
+  "price": 120,
+  "maxPeople": 2,
+  "roomNumbers": [
+    {
+      "number": "104",
+      "unavailableDates": []
+    }
+  ],
+  "hotelId": "654dd7a76b85a0471a20dbc5"
+},
+{
+  "_id": {
+    "$oid": "654ddb4335520ba8c8fd134a"
+  },
+  "title": "Executive Room",
+  "desc": "Comfortable room with queen size bed, 1 bathroom, and city view",
+  "price": 120,
+  "maxPeople": 2,
+  "roomNumbers": [
+    {
+      "number": "104",
+      "unavailableDates": []
+    }
+  ],
+  "hotelId": "654dd7a76b85a0471a20dbc6"
+},
+{
+  "_id": {
+    "$oid": "654ddb4735520ba8c8fd134b"
+  },
+  "title": "Executive Room",
+  "desc": "Comfortable room with queen size bed, 1 bathroom, and city view",
+  "price": 120,
+  "maxPeople": 2,
+  "roomNumbers": [
+    {
+      "number": "104",
+      "unavailableDates": []
+    }
+  ],
+  "hotelId": "654dd7a76b85a0471a20dbc7"
+},
+{
+  "_id": {
+    "$oid": "654ddb4a35520ba8c8fd134c"
+  },
+  "title": "Executive Room",
+  "desc": "Comfortable room with queen size bed, 1 bathroom, and city view",
+  "price": 120,
+  "maxPeople": 2,
+  "roomNumbers": [
+    {
+      "number": "104",
+      "unavailableDates": []
+    }
+  ],
+  "hotelId": "654dd7a76b85a0471a20dbc8"
+},
+{
+  "_id": {
+    "$oid": "654ddb4d35520ba8c8fd134d"
+  },
+  "title": "Executive Room",
+  "desc": "Comfortable room with queen size bed, 1 bathroom, and city view",
+  "price": 120,
+  "maxPeople": 2,
+  "roomNumbers": [
+    {
+      "number": "104",
+      "unavailableDates": []
+    }
+  ],
+  "hotelId": "654dd7a76b85a0471a20dbc9"
+},
+{
+  "_id": {
+    "$oid": "654ddb5335520ba8c8fd134e"
+  },
+  "title": "Executive Room",
+  "desc": "Comfortable room with queen size bed, 1 bathroom, and city view",
+  "price": 120,
+  "maxPeople": 2,
+  "roomNumbers": [
+    {
+      "number": "104",
+      "unavailableDates": []
+    }
+  ],
+  "hotelId": "654dd7a76b85a0471a20dbca"
+},
+{
+  "_id": {
+    "$oid": "654ddb5d35520ba8c8fd134f"
+  },
+  "title": "Executive Room",
+  "desc": "Comfortable room with queen size bed, 1 bathroom, and city view",
+  "price": 120,
+  "maxPeople": 2,
+  "roomNumbers": [
+    {
+      "number": "104",
+      "unavailableDates": []
+    }
+  ],
+  "hotelId": "654dd7a76b85a0471a20dbcb"
+},
+{
+  "_id": {
+    "$oid": "654ddb6035520ba8c8fd1350"
+  },
+  "title": "Executive Room",
+  "desc": "Comfortable room with queen size bed, 1 bathroom, and city view",
+  "price": 120,
+  "maxPeople": 2,
+  "roomNumbers": [
+    {
+      "number": "104",
+      "unavailableDates": []
+    }
+  ],
+  "hotelId": "654dd7a76b85a0471a20dbcc"
+},
+{
+  "_id": {
+    "$oid": "654ddb6435520ba8c8fd1351"
+  },
+  "title": "Executive Room",
+  "desc": "Comfortable room with queen size bed, 1 bathroom, and city view",
+  "price": 120,
+  "maxPeople": 2,
+  "roomNumbers": [
+    {
+      "number": "104",
+      "unavailableDates": []
+    }
+  ],
+  "hotelId": "654dd7a76b85a0471a20dbcd"
+},
+{
+  "_id": {
+    "$oid": "654ddb6735520ba8c8fd1352"
+  },
+  "title": "Executive Room",
+  "desc": "Comfortable room with queen size bed, 1 bathroom, and city view",
+  "price": 120,
+  "maxPeople": 2,
+  "roomNumbers": [
+    {
+      "number": "104",
+      "unavailableDates": []
+    }
+  ],
+  "hotelId": "654dd7a76b85a0471a20dbce"
+},
+{
+  "_id": {
+    "$oid": "654ddb6a35520ba8c8fd1353"
+  },
+  "title": "Executive Room",
+  "desc": "Comfortable room with queen size bed, 1 bathroom, and city view",
+  "price": 120,
+  "maxPeople": 2,
+  "roomNumbers": [
+    {
+      "number": "104",
+      "unavailableDates": []
+    }
+  ],
+  "hotelId": "654dd7a76b85a0471a20dbcf"
+},
+{
+  "_id": {
+    "$oid": "654ddb7135520ba8c8fd1354"
+  },
+  "title": "Executive Room",
+  "desc": "Comfortable room with queen size bed, 1 bathroom, and city view",
+  "price": 120,
+  "maxPeople": 2,
+  "roomNumbers": [
+    {
+      "number": "104",
+      "unavailableDates": []
+    }
+  ],
+  "hotelId": "654dd7a76b85a0471a20dbd0"
+},
+{
+  "_id": {
+    "$oid": "654ddb7435520ba8c8fd1355"
+  },
+  "title": "Executive Room",
+  "desc": "Comfortable room with queen size bed, 1 bathroom, and city view",
+  "price": 120,
+  "maxPeople": 2,
+  "roomNumbers": [
+    {
+      "number": "104",
+      "unavailableDates": []
+    }
+  ],
+  "hotelId": "654dd7a76b85a0471a20dbd1"
+},
+{
+  "_id": {
+    "$oid": "654ddb7735520ba8c8fd1356"
+  },
+  "title": "Executive Room",
+  "desc": "Comfortable room with queen size bed, 1 bathroom, and city view",
+  "price": 120,
+  "maxPeople": 2,
+  "roomNumbers": [
+    {
+      "number": "104",
+      "unavailableDates": []
+    }
+  ],
+  "hotelId": "654dd7a76b85a0471a20dbd2"
+},
+{
+  "_id": {
+    "$oid": "654ddb7a35520ba8c8fd1357"
+  },
+  "title": "Executive Room",
+  "desc": "Comfortable room with queen size bed, 1 bathroom, and city view",
+  "price": 120,
+  "maxPeople": 2,
+  "roomNumbers": [
+    {
+      "number": "104",
+      "unavailableDates": []
+    }
+  ],
+  "hotelId": "654dd7a76b85a0471a20dbd3"
+},
+{
+  "_id": {
+    "$oid": "654ddb7d35520ba8c8fd1358"
+  },
+  "title": "Executive Room",
+  "desc": "Comfortable room with queen size bed, 1 bathroom, and city view",
+  "price": 120,
+  "maxPeople": 2,
+  "roomNumbers": [
+    {
+      "number": "104",
+      "unavailableDates": []
+    }
+  ],
+  "hotelId": "654dd7a76b85a0471a20dbd4"
+},
+{
+  "_id": {
+    "$oid": "654ddb8035520ba8c8fd1359"
+  },
+  "title": "Executive Room",
+  "desc": "Comfortable room with queen size bed, 1 bathroom, and city view",
+  "price": 120,
+  "maxPeople": 2,
+  "roomNumbers": [
+    {
+      "number": "104",
+      "unavailableDates": []
+    }
+  ],
+  "hotelId": "654dd7a76b85a0471a20dbd5"
+},
+{
+  "_id": {
+    "$oid": "654ddb8335520ba8c8fd135a"
+  },
+  "title": "Executive Room",
+  "desc": "Comfortable room with queen size bed, 1 bathroom, and city view",
+  "price": 120,
+  "maxPeople": 2,
+  "roomNumbers": [
+    {
+      "number": "104",
+      "unavailableDates": []
+    }
+  ],
+  "hotelId": "654dd7a76b85a0471a20dbd6"
+},
+{
+  "_id": {
+    "$oid": "654ddb8635520ba8c8fd135b"
+  },
+  "title": "Executive Room",
+  "desc": "Comfortable room with queen size bed, 1 bathroom, and city view",
+  "price": 120,
+  "maxPeople": 2,
+  "roomNumbers": [
+    {
+      "number": "104",
+      "unavailableDates": []
+    }
+  ],
+  "hotelId": "654dd7a76b85a0471a20dbd7"
+},
+{
+  "_id": {
+    "$oid": "654ddb8935520ba8c8fd135c"
+  },
+  "title": "Executive Room",
+  "desc": "Comfortable room with queen size bed, 1 bathroom, and city view",
+  "price": 120,
+  "maxPeople": 2,
+  "roomNumbers": [
+    {
+      "number": "104",
+      "unavailableDates": []
+    }
+  ],
+  "hotelId": "654dd7a76b85a0471a20dbd8"
+},
+{
+  "_id": {
+    "$oid": "654ddb8c35520ba8c8fd135d"
+  },
+  "title": "Executive Room",
+  "desc": "Comfortable room with queen size bed, 1 bathroom, and city view",
+  "price": 120,
+  "maxPeople": 2,
+  "roomNumbers": [
+    {
+      "number": "104",
+      "unavailableDates": []
+    }
+  ],
+  "hotelId": "654dd7a76b85a0471a20dbd9"
+},
+{
+  "_id": {
+    "$oid": "654ddb9335520ba8c8fd135e"
+  },
+  "title": "Executive Room",
+  "desc": "Comfortable room with queen size bed, 1 bathroom, and city view",
+  "price": 120,
+  "maxPeople": 2,
+  "roomNumbers": [
+    {
+      "number": "104",
+      "unavailableDates": []
+    }
+  ],
+  "hotelId": "654dd7a76b85a0471a20dbda"
+},
+{
+  "_id": {
+    "$oid": "654ddb9735520ba8c8fd135f"
+  },
+  "title": "Executive Room",
+  "desc": "Comfortable room with queen size bed, 1 bathroom, and city view",
+  "price": 120,
+  "maxPeople": 2,
+  "roomNumbers": [
+    {
+      "number": "104",
+      "unavailableDates": []
+    }
+  ],
+  "hotelId": "654dd7a76b85a0471a20dbdb"
+},
+{
+  "_id": {
+    "$oid": "654ddb9b35520ba8c8fd1360"
+  },
+  "title": "Executive Room",
+  "desc": "Comfortable room with queen size bed, 1 bathroom, and city view",
+  "price": 120,
+  "maxPeople": 2,
+  "roomNumbers": [
+    {
+      "number": "104",
+      "unavailableDates": []
+    }
+  ],
+  "hotelId": "654dd7a76b85a0471a20dbdc"
+},
+{
+  "_id": {
+    "$oid": "654ddb9f35520ba8c8fd1361"
+  },
+  "title": "Executive Room",
+  "desc": "Comfortable room with queen size bed, 1 bathroom, and city view",
+  "price": 120,
+  "maxPeople": 2,
+  "roomNumbers": [
+    {
+      "number": "104",
+      "unavailableDates": []
+    }
+  ],
+  "hotelId": "654dd7a76b85a0471a20dbdd"
+},
+{
+  "_id": {
+    "$oid": "654ddba135520ba8c8fd1362"
+  },
+  "title": "Executive Room",
+  "desc": "Comfortable room with queen size bed, 1 bathroom, and city view",
+  "price": 120,
+  "maxPeople": 2,
+  "roomNumbers": [
+    {
+      "number": "104",
+      "unavailableDates": []
+    }
+  ],
+  "hotelId": "654dd7a76b85a0471a20dbde"
+},
+{
+  "_id": {
+    "$oid": "654ddba835520ba8c8fd1363"
+  },
+  "title": "Executive Room",
+  "desc": "Comfortable room with queen size bed, 1 bathroom, and city view",
+  "price": 120,
+  "maxPeople": 2,
+  "roomNumbers": [
+    {
+      "number": "104",
+      "unavailableDates": []
+    }
+  ],
+  "hotelId": "654dd7a76b85a0471a20dbdf"
+}]
