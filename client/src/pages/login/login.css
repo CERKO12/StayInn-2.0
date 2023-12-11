@@ -1,0 +1,39 @@
+.login {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.lContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.lInput{
+  height: 30px;
+  padding: 10px;
+}
+
+.btms {
+  display: flex;
+  justify-content: space-between;
+  gap: 30px;
+}
+
+.lButton {
+  border: none;
+  width: 100px;
+  padding: 10px 20px;
+  background-color: #03a303;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.lButton:disabled{
+  background-color: #0071c28c;
+  cursor: not-allowed;
+}
