@@ -20,13 +20,11 @@ Here are updates to our full-stack web-based hotel booking platform, enhancing t
 
 * Advanced Search Functionality: Users can now effortlessly search for rooms using a specific number of adults and kids, making it easier to find the perfect accommodation options.
 
-* Improved Pagination Navigation: A new feature in the pagination section allows users to jump directly to a targeted page, significantly improving navigation efficiency.
-
 * Keyboard Command Feature: To enhance user experience, we've implemented keyboard command functionality for easy navigation and interaction with the platform.
 
-* Enhanced Sign-Up Visibility: The sign-up button has been redesigned for higher visibility, aiding new users in easily creating an account.
+* Enhanced Sign-Up Visibility: The sign-up page has been redesigned for higher visibility, aiding new users in easily creating an account.
 
-* Category Button Visual Update: We have enhanced the category button’s visual effects to clearly indicate page changes, ensuring a more intuitive user interface.
+* Images Card Update: We've updated the location photos on the homepage to make the image cards more attractive.
 
 * Admin Page Layout Redesign: The admin page layout has been completely redesigned for improved usability and management efficiency.
 
@@ -46,8 +44,14 @@ cd api => yarn install or npm install => yarn start or npm start
 ```
 * Place the .env file in the api folder
 
+### Demo Link
+[StayInn](https://booking-frontend-inys.onrender.com/)
+
 ### Design Document
-[Project 3 - StayInn-  Web Booking App.pdf](https://github.com/CERKO12/StayInn--Web-booking-application/files/13304354/Project.3.-.StayInn-.Web.Booking.App.pdf)
+[StayInn - Web Booking App.pdf](https://github.com/CERKO12/StayInn--Web-booking-application/files/13304354/Project.3.-.StayInn-.Web.Booking.App.pdf)
+
+### Slides
+[StayInn_2.0](https://docs.google.com/presentation/d/1x2OU08ppwFTR2RxvXgG4n58KtHw2f8T6PQ1r1Q6rL9U/edit?usp=sharing)
 
 ### Class Link
 [CS5610-Web Development](https://johnguerra.co/classes/webDevelopment_fall_2023/)
@@ -65,3 +69,7 @@ Search lists
 
 Reserve page
 ![reserve](screenshots/5.png)
+
+Admin Page
+![admin](screenshots/6.png)
+![admin](screenshots/7.png)
