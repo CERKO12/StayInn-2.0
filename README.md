@@ -56,6 +56,9 @@ cd api => yarn install or npm install => yarn start or npm start
 ### Slides
 [StayInn Slides](https://docs.google.com/presentation/d/1x2OU08ppwFTR2RxvXgG4n58KtHw2f8T6PQ1r1Q6rL9U/edit?usp=sharing)
 
+### Video Demonstration
+[StayInn_Video](https://youtu.be/eSNz1Z_aR2w)
+
 ### Screenshots
 StayInn homepage
 ![home](screenshots/1.png)
