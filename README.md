@@ -45,7 +45,7 @@ cd api => yarn install or npm install => yarn start or npm start
 * Place the .env file in the api folder
 
 ### Design Document
-[StayInn-  Web Booking App.pdf]([https://github.com/CERKO12/StayInn--Web-booking-application/files/13304354/Project.3.-.StayInn-.Web.Booking.App.pdf](https://docs.google.com/document/d/1rOI8qmPksmEVGCwvLxYXTWejFcND6Cns1rZ3m8Lvcnk/edit?usp=sharing))
+[StayInn_2.0]([https://github.com/CERKO12/StayInn--Web-booking-application/files/13304354/Project.3.-.StayInn-.Web.Booking.App.pdf](https://docs.google.com/document/d/1rOI8qmPksmEVGCwvLxYXTWejFcND6Cns1rZ3m8Lvcnk/edit?usp=sharing)
 
 ### Class Link
 [CS5610-Web Development](https://johnguerra.co/classes/webDevelopment_fall_2023/)
