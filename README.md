@@ -52,6 +52,9 @@ cd api => yarn install or npm install => yarn start or npm start
 ### Class Link
 [CS5610-Web Development](https://johnguerra.co/classes/webDevelopment_fall_2023/)
 
+### Demo Link
+[https://booking-frontend-inys.onrender.com/]
+
 ### Screenshots
 StayInn homepage
 ![home](screenshots/1.png)
