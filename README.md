@@ -61,6 +61,7 @@ cd api => yarn install or npm install => yarn start or npm start
 
 ### Usability Study Report
 [Congkai - Usability Study Report](https://docs.google.com/document/d/1c3XVuUu7tzAWZStEh-BBd_Btm4tghZAmcC3rSQf8fF8/edit?usp=sharing)
+
 [Yue - Usability Study Report](https://youtu.be/PEBNJMsRspI)
 
 ### Screenshots
