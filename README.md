@@ -53,6 +53,9 @@ cd api => yarn install or npm install => yarn start or npm start
 ### Demo Link
 [StayInn_2.0](https://booking-frontend-inys.onrender.com/)
 
+### Slides
+[StayInn Slides](https://docs.google.com/presentation/d/1x2OU08ppwFTR2RxvXgG4n58KtHw2f8T6PQ1r1Q6rL9U/edit?usp=sharing)
+
 ### Screenshots
 StayInn homepage
 ![home](screenshots/1.png)
