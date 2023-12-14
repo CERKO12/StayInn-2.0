@@ -8,7 +8,7 @@ const Featured = () => {
     <div className="featured">
       {<><div className="featuredItem">
         <img
-          src="https://cf.bstatic.com/xdata/images/city/max500/957801.webp?k=a969e39bcd40cdcc21786ba92826063e3cb09bf307bcfeac2aa392b838e9b7a5&o="
+          src="https://www.bain.com/contentassets/2ef1050396df402f80c83c3d12c46686/local-office-images-berlin-1440x810.jpg"
           alt="featured photo"
           className="featuredImg"
         />
@@ -20,7 +20,7 @@ const Featured = () => {
       
       <div className="featuredItem">
         <img
-          src="https://cf.bstatic.com/xdata/images/city/max500/690334.webp?k=b99df435f06a15a1568ddd5f55d239507c0156985577681ab91274f917af6dbb&o="
+          src="https://franks-travelbox.com/wp-content/uploads/2017/11/china-peking-der-kaiserliche-sommerpalast-in-peking-gilt-als-hocc88hepunkt-der-chinesischen-architektur-und-landschaftsgestaltung-er-steht-fucc88r-erholung-harmonie-und-schocc88nheit-china-1200x800.jpg"
           alt="featured photo"
           className="featuredImg"
         />
@@ -31,7 +31,7 @@ const Featured = () => {
       </div>
       <div className="featuredItem">
         <img
-          src="https://cf.bstatic.com/xdata/images/city/max500/689422.webp?k=2595c93e7e067b9ba95f90713f80ba6e5fa88a66e6e55600bd27a5128808fdf2&o="
+          src="https://cdn.britannica.com/01/94501-050-7C939333/Big-Ben-London.jpg"
           alt="featured photo"
           className="featuredImg"
         />

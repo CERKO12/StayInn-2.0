@@ -1,6 +1,25 @@
 import "./roomsManagement.css";
 import { useState } from "react";
 
+const inputStyle = {
+  width: '100%',
+  padding: '10px',
+  margin: '10px 0',
+  borderRadius: '4px',
+  border: '1px solid #ddd',
+  background: '#fcfcfc'
+};
+
+const buttonStyle = {
+  padding: '10px 20px',
+  border: 'none',
+  borderRadius: '4px',
+  backgroundColor: '#0056b3',
+  color: 'white',
+  cursor: 'pointer',
+  margin: '10px 5px 10px 0'
+};
+
 const UpdateModal = ({ room, setShowUpdateModal, handleRoomQuery }) => {
   const { _id, ...roomWithoutId } = room;
   const [newRoom, setNewRoom] = useState(roomWithoutId);
@@ -132,16 +151,17 @@ const RoomsManagement = () => {
   };
 
   return (
-    <div className="rooms">
+    <div className="rooms" style={{ fontFamily: 'Arial', padding: '20px', backgroundColor: '#f4f4f4' }}>
       <h2>Room Management</h2>
-      <form id="roomForm">
-        <div className="wrapper">
-          Title:
+      <form id="roomForm" style={{ backgroundColor: '#fff', padding: '20px', borderRadius: '8px', boxShadow: '0 2px 4px rgba(0, 0, 0, 0.1)', marginBottom: '20px' }}>
+        <div className="wrapper" style={{ marginBottom: '20px' }}>
+          <label>Title:</label>
           <input
             type="text"
             placeholder="Title"
             id="title"
-            className="input"
+            style={inputStyle}
+            // className="input"
             onChange={handleChange}
             required
           />
@@ -191,26 +211,27 @@ const RoomsManagement = () => {
             required
           />
         </div>
-        <button className="button" onClick={handleRoomAdd}>
+        <button className="button" style={buttonStyle} onClick={handleRoomAdd}>
           Add
         </button>
       </form>
 
       <form id="roomForm">
-        RoomId:
+        <label>Room Id:</label>
         <input
           type="text"
-          placeholder="roomId"
+          placeholder="room Id"
           id="roomId"
-          className="input"
+          style={inputStyle}
+          // className="input"
           onChange={handleChange}
         />
-        <button className="button" onClick={handleRoomQuery}>
+        <button className="button" style={buttonStyle} onClick={handleRoomQuery}>
           Query
         </button>
       </form>
-      <div class="query-results">
-        <table class="recordsTable">
+      <div class="query-results" style={{ overflowX: 'auto' }}>
+        <table class="recordsTable" style={{ width: '60%', borderCollapse: 'collapse' }}>
           <thead>
             <tr>
               <th>Id</th>

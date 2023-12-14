@@ -62,9 +62,9 @@ const Header = ({ type }) => {
       >
         {type !== "list" && (
           <>
+          <div className="headerCenter">
             <h1 className="headerTitle">
-              It's truly brilliant - a lifetime filled with discounts for our
-              members.
+              SECURE 15% OFF AND MORE
             </h1>
             <p className="headerDesc">
               Sign up and you will get the best deals from us!
@@ -82,6 +82,7 @@ const Header = ({ type }) => {
                 <button className="headerBtn">Sign in / Register</button>
               </Link>
             )}
+          </div>
 
             <div className="headerSearch">
               <div className="headerSearchItem">

@@ -62,6 +62,7 @@ const Login = () => {
 
   return (
     <div className="login">
+      <div className="loginHeader">StayInn</div>
       <div className="lContainer">
         <input
           type="text"

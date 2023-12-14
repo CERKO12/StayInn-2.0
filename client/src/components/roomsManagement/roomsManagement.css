@@ -1,0 +1,83 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+
+  .management-panel {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    padding: 20px;
+  }
+  
+ 
+  .management-panel form {
+    background-color: #ffffff;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+  }
+  
+ 
+  .management-panel label {
+    display: block;
+    margin: 10px 0 5px;
+    color: #333;
+  }
+  
+  .management-panel input[type="text"], 
+  .management-panel input[type="number"] {
+    width: calc(100% - 22px); 
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 4px;
+    border: 1px solid #ddd;
+    background-color: #fcfcfc; 
+  }
+  
+
+  .input-short {
+    width: 50px; 
+  }
+  
+  .input-medium {
+    width: 100px; 
+  }
+  
+  .input-long {
+    width: calc(50% - 22px); 
+  }
+  
+
+  .management-panel button {
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    background-color: #0056b3;
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .management-panel button:hover {
+    background-color: #003d82;
+  }
+  
+
+  @media (max-width: 768px) {
+    .management-panel input[type="text"], 
+    .management-panel input[type="number"] {
+      width: calc(100% - 22px);
+    }
+  
+    .input-short, .input-medium, .input-long {
+      width: calc(100% - 22px); 
+    }
+  }
+  
+  
+
+

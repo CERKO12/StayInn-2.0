@@ -1,6 +1,25 @@
 import "./hotelsManagement.css";
 import { useState } from "react";
 
+const inputStyle = {
+  width: '100%',
+  padding: '10px',
+  margin: '10px 0',
+  borderRadius: '4px',
+  border: '1px solid #ddd',
+  background: '#fcfcfc'
+};
+
+const buttonStyle = {
+  padding: '10px 15px',
+  border: 'none',
+  borderRadius: '4px',
+  backgroundColor: '#0056b3',
+  color: 'white',
+  cursor: 'pointer',
+  margin: '10px 5px 10px 0'
+};
+
 const UpdateModal = ({ hotel, setShowUpdateModal, handleHotelQuery }) => {
   const { _id, ...hotelWithoutId } = hotel;
   const [newHotel, setNewHotel] = useState(hotelWithoutId);
@@ -179,16 +198,17 @@ const HotelsManagement = () => {
   };
 
   return (
-    <div className="hotels">
+    <div className="hotels" style={{ fontFamily: 'Arial', padding: '20px', backgroundColor: '#f4f4f4' }}>
       <h2>Hotel Management</h2>
-      <form id="hotelForm">
-        <div className="wrapper">
-          Name:
+      <form id="hotelForm" style={{ backgroundColor: '#fff', padding: '20px', borderRadius: '8px', boxShadow: '0 2px 4px rgba(0, 0, 0, 0.1)', marginBottom: '20px' }}>
+        <div className="wrapper" style={{ marginBottom: '20px' }}>
+          <label>Name:</label>
           <input
             type="text"
             placeholder="Name"
             id="name"
-            className="input"
+            style={inputStyle}
+            // className="input"
             onChange={handleChange}
             required
           />
@@ -274,26 +294,27 @@ const HotelsManagement = () => {
             required
           />
         </div>
-        <button className="button" onClick={handleHotelAdd}>
+        <button className="button" style={buttonStyle} onClick={handleHotelAdd}>
           Add
         </button>
       </form>
 
       <form id="hotelForm">
-        HotelId:
+        <label>Hotel Id:</label>
         <input
           type="text"
-          placeholder="hotelId"
+          placeholder="hotel Id"
           id="hotelId"
-          className="input"
+          style={inputStyle}
+          // className="input"
           onChange={handleChange}
         />
-        <button className="button" onClick={handleHotelQuery}>
+        <button className="button" style={buttonStyle} onClick={handleHotelQuery}>
           Query
         </button>
       </form>
       <div class="query-results">
-        <table class="recordsTable">
+        <table class="recordsTable" style={{ width: '60%', borderCollapse: 'collapse' }}>
           <thead>
             <tr>
               <th>Id</th>

@@ -1,6 +1,25 @@
 import "./usersManagement.css";
 import { useState } from "react";
 
+const inputStyle = {
+  width: '100%',
+  padding: '10px',
+  margin: '10px 0',
+  borderRadius: '4px',
+  border: '1px solid #ddd',
+  background: '#fcfcfc'
+};
+
+const buttonStyle = {
+  padding: '10px 15px',
+  border: 'none',
+  borderRadius: '4px',
+  backgroundColor: '#0056b3',
+  color: 'white',
+  cursor: 'pointer',
+  margin: '10px 5px 10px 0'
+};
+
 const UpdateModal = ({ userId, setShowUpdateModal, handleUserQuery }) => {
   const [newPassword, setNewPassword] = useState("");
 
@@ -69,23 +88,24 @@ const UsersManagement = () => {
   };
 
   return (
-    <div className="users">
+    <div className="users" style={{ fontFamily: 'Arial', padding: '20px', backgroundColor: '#f4f4f4' }}>
       <h2>User Management</h2>
-      <form id="userForm">
-        UserId:
+      <form id="userForm" style={{ backgroundColor: '#fff', padding: '20px', borderRadius: '8px', boxShadow: '0 2px 4px rgba(0, 0, 0, 0.1)', marginBottom: '20px' }}>
+        <label>UserId:</label>
         <input
           type="text"
           placeholder="userId"
           id="userId"
-          className="input"
+          style={inputStyle}
+          // className="input"
           onChange={handleChange}
         />
-        <button className="button" onClick={handleUserQuery}>
+        <button className="button" style={buttonStyle} onClick={handleUserQuery}>
           Query
         </button>
       </form>
-      <div class="query-results">
-        <table class="recordsTable">
+      <div className="query-results" style={{ overflowX: 'auto' }}>
+        <table className="recordsTable" style={{ width: '30%', borderCollapse: 'collapse' }}>
           <thead>
             <tr>
               <th>UserId</th>
