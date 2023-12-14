@@ -59,6 +59,9 @@ cd api => yarn install or npm install => yarn start or npm start
 ### Video Demonstration
 [StayInn_Video](https://youtu.be/eSNz1Z_aR2w)
 
+### Usability Study Report
+[Usability Study Report](https://docs.google.com/document/d/1c3XVuUu7tzAWZStEh-BBd_Btm4tghZAmcC3rSQf8fF8/edit?usp=sharing)
+
 ### Screenshots
 StayInn homepage
 ![home](screenshots/1.png)
