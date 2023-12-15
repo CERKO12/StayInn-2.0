@@ -44,6 +44,8 @@ cd api => yarn install or npm install => yarn start or npm start
 ```
 * Place the .env file in the api folder
 
+### Color Palette
+
 ### Design Document
 [StayInn_2.0](https://docs.google.com/document/d/1rOI8qmPksmEVGCwvLxYXTWejFcND6Cns1rZ3m8Lvcnk/edit?usp=sharing)
 
