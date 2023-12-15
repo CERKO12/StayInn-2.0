@@ -62,6 +62,8 @@ Font of logo and text: Open Sans, sans-serif
   * [Congkai - Usability Study Report](https://docs.google.com/document/d/1c3XVuUu7tzAWZStEh-BBd_Btm4tghZAmcC3rSQf8fF8/edit?usp=sharing)
   * [Yue - Usability Study Report](https://youtu.be/PEBNJMsRspI)
 * Class Link: https://johnguerra.co/classes/webDevelopment_fall_2023/
+* Lighthouse Usability Testing:
+  ![lighthouse](screenshots/Lighthouse.png)
 
 ### Demo Link
 [StayInn_2.0](https://booking-frontend-inys.onrender.com/)
