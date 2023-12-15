@@ -51,7 +51,7 @@ Open Sans, sans-serif
 ### Document
 * Design Doc: https://docs.google.com/document/d/1rOI8qmPksmEVGCwvLxYXTWejFcND6Cns1rZ3m8Lvcnk/edit?usp=sharing
 * Slides: https://docs.google.com/presentation/d/1x2OU08ppwFTR2RxvXgG4n58KtHw2f8T6PQ1r1Q6rL9U/edit?usp=sharing
-* Video Demonstration: https://docs.google.com/document/d/1c3XVuUu7tzAWZStEh-BBd_Btm4tghZAmcC3rSQf8fF8/edit?usp=sharing
+* Video Demonstration: https://youtu.be/eSNz1Z_aR2w
 * Usability Study Report:
   * [Congkai - Usability Study Report](https://docs.google.com/document/d/1c3XVuUu7tzAWZStEh-BBd_Btm4tghZAmcC3rSQf8fF8/edit?usp=sharing)
   * [Yue - Usability Study Report](https://youtu.be/PEBNJMsRspI)
