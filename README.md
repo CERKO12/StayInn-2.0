@@ -46,7 +46,13 @@ cd api => yarn install or npm install => yarn start or npm start
 
 ### Color Palette and Fonts
 ![color_palette](screenshots/Color__Palette.png)
-Open Sans, sans-serif
+* #02390E: For the header, footer, and background color of the login page.
+* #015314: For the navigation bar of the home page.
+* #03A303: The color of the buttons on each page.
+* #FFFFFF: The background color of the list of properties on each page.
+* #FEBB02: the edge color of the search bar
+  
+Font of logo and text: Open Sans, sans-serif
 
 ### Document
 * Design Doc: https://docs.google.com/document/d/1rOI8qmPksmEVGCwvLxYXTWejFcND6Cns1rZ3m8Lvcnk/edit?usp=sharing
