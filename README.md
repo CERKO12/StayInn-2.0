@@ -48,8 +48,8 @@ cd api => yarn install or npm install => yarn start or npm start
 ![color_palette](screenshots/Color__Palette.png)
 Open Sans, sans-serif
 
-### Design Document
-[StayInn_2.0](https://docs.google.com/document/d/1rOI8qmPksmEVGCwvLxYXTWejFcND6Cns1rZ3m8Lvcnk/edit?usp=sharing)
+### Document
+* Design Doc: (https://docs.google.com/document/d/1rOI8qmPksmEVGCwvLxYXTWejFcND6Cns1rZ3m8Lvcnk/edit?usp=sharing)
 
 ### Class Link
 [CS5610-Web Development](https://johnguerra.co/classes/webDevelopment_fall_2023/)
